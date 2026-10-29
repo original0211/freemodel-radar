@@ -1,0 +1,152 @@
+{
+  "checked_at": "2026-10-28T23:58:54.894071+00:00",
+  "free_count": 19,
+  "verified_count": 0,
+  "unverified_count": 19,
+  "models": [
+    {
+      "id": "cohere/north-mini-code:free",
+      "context_length": 256000,
+      "parameters_b": null,
+      "verification_status": "unverified_needs_parameter_verification",
+      "verified": false
+    },
+    {
+      "id": "dots-studio/dots-3-note-preview:free",
+      "context_length": 512000,
+      "parameters_b": null,
+      "verification_status": "unverified_needs_parameter_verification",
+      "verified": false
+    },
+    {
+      "id": "google/gemma-4-26b-a4b-it:free",
+      "context_length": 262144,
+      "parameters_b": null,
+      "verification_status": "unverified_needs_parameter_verification",
+      "verified": false
+    },
+    {
+      "id": "google/gemma-4-31b-it:free",
+      "context_length": 262144,
+      "parameters_b": null,
+      "verification_status": "unverified_needs_parameter_verification",
+      "verified": false
+    },
+    {
+      "id": "google/lyria-3-clip-preview",
+      "context_length": null,
+      "parameters_b": null,
+      "verification_status": "unverified_unknown",
+      "verified": false
+    },
+    {
+      "id": "google/lyria-3-pro-preview",
+      "context_length": null,
+      "parameters_b": null,
+      "verification_status": "unverified_unknown",
+      "verified": false
+    },
+    {
+      "id": "liquid/lfm-2.5-2.6b:free",
+      "context_length": 65536,
+      "parameters_b": null,
+      "verification_status": "unverified_needs_parameter_verification",
+      "verified": false
+    },
+    {
+      "id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+      "context_length": 256000,
+      "parameters_b": null,
+      "verification_status": "unverified_needs_parameter_verification",
+      "verified": false
+    },
+    {
+      "id": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "context_length": 1000000,
+      "parameters_b": null,
+      "verification_status": "unverified_needs_parameter_verification",
+      "verified": false
+    },
+    {
+      "id": "nvidia/nemotron-3.5-content-safety:free",
+      "context_length": null,
+      "parameters_b": null,
+      "verification_status": "unverified_unknown",
+      "verified": false
+    },
+    {
+      "id": "nvidia/nemotron-3.5-lightning:free",
+      "context_length": 1000000,
+      "parameters_b": null,
+      "verification_status": "unverified_needs_parameter_verification",
+      "verified": false
+    },
+    {
+      "id": "nvidia/nemotron-3.5-super-vl:free",
+      "context_length": 1000000,
+      "parameters_b": null,
+      "verification_status": "unverified_needs_parameter_verification",
+      "verified": false
+    },
+    {
+      "id": "openrouter/free",
+      "context_length": 200000,
+      "parameters_b": null,
+      "verification_status": "unverified_needs_parameter_verification",
+      "verified": false
+    },
+    {
+      "id": "poolside/laguna-s-2.1:free",
+      "context_length": 262144,
+      "parameters_b": null,
+      "verification_status": "unverified_needs_parameter_verification",
+      "verified": false
+    },
+    {
+      "id": "poolside/laguna-xs-2.1:free",
+      "context_length": 262144,
+      "parameters_b": null,
+      "verification_status": "unverified_needs_parameter_verification",
+      "verified": false
+    },
+    {
+      "id": "recursive/flint-v1.0:free",
+      "context_length": 262144,
+      "parameters_b": null,
+      "verification_status": "unverified_needs_parameter_verification",
+      "verified": false
+    },
+    {
+      "id": "thinkingmachines/inkling-small:free",
+      "context_length": 1048576,
+      "parameters_b": null,
+      "verification_status": "unverified_needs_parameter_verification",
+      "verified": false
+    },
+    {
+      "id": "thinkingmachines/inkling:free",
+      "context_length": 1048576,
+      "parameters_b": null,
+      "verification_status": "unverified_needs_parameter_verification",
+      "verified": false
+    },
+    {
+      "id": "xingchen-agi/xing4.0-29b-a4b:free",
+      "context_length": 262144,
+      "parameters_b": null,
+      "verification_status": "unverified_needs_parameter_verification",
+      "verified": false
+    }
+  ],
+  "changes": {
+    "is_first_day": false,
+    "prev_checked_at": "2026-10-16T23:58:48.637330+00:00",
+    "added": [
+      "recursive/flint-v1.0:free"
+    ],
+    "removed": [
+      "nvidia/nemotron-3-super-120b-a12b:free"
+    ]
+  },
+  "prev_source": "/home/hatch/workspace/goals/openrouter-free-model-daily-scan/hidden_files/freetoken-bots-2026-10-17.json"
+}
